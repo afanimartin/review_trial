@@ -1,4 +1,4 @@
 # review_trial
 
 ## Acknowledgements
-- TedLivist (copied this code from his repo)
+- [TedLivist](https://github.com/TedLivist) (copied this code from his repo)
